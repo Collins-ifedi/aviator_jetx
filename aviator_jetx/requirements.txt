@@ -1,0 +1,21 @@
+# Web Framework & Server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database & ORM
+sqlalchemy[asyncio]
+aiosqlite
+greenlet
+
+# Data Validation
+pydantic
+pydantic-settings
+
+# Telegram Integration
+python-telegram-bot
+
+# Logic & Utilities
+# (Standard libraries used for HMAC, Secrets, and Decimal)
+# typing-extensions included for backward compatibility
+typing-extensions
