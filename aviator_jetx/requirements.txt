@@ -7,6 +7,7 @@ python-multipart
 sqlalchemy[asyncio]
 aiosqlite
 greenlet
+asyncpg
 
 # Data Validation
 pydantic
